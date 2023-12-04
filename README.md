@@ -43,7 +43,7 @@ source ~/catkin_ws/devel/setup.bash ```
 # Iniciar ROS Core desde un PC remoto
     Iniciar una terminal 
     Run roscore from Remote PC.  
-    $ roscore 
+    roscore 
     Abrir otra terminal 
     Ssh ubuntu@192.168.203.15 - 192.168.78.15 
     Contraseña: turtlebot 
@@ -54,13 +54,12 @@ source ~/catkin_ws/devel/setup.bash ```
 ``bash
 Abrir una terminal y verificar ip de master y turtlebot: 
 Ifconfig 
-EN mi caso es 192.168.154.229 
+En mi caso es 192.168.203.229 
 ssh ubuntu@192.168.203.15
 Contraseña: turtlebot
 roslaunch turtlebot3_bringup turtlebot3_robot.launch
 
 ```
-# (Continúa con más comandos si son necesarios)
 
 ##SLAM y Teleoperación
 Para iniciar el proceso de SLAM y teleoperar el TurtleBot:
