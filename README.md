@@ -96,3 +96,5 @@ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 roslaunch turtlebot3_bringup turtlebot3_robot.launch
 
 ```
+
+Para el video de func ionamiento referrirse a: https://youtu.be/rwX49ddiEcs
