@@ -97,4 +97,4 @@ roslaunch turtlebot3_bringup turtlebot3_robot.launch
 
 ```
 
-Para el video de func ionamiento referrirse a: https://youtu.be/rwX49ddiEcs
+Para el video de funcionamiento referirse a: https://youtu.be/rwX49ddiEcs
